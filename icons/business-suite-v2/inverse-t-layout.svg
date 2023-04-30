@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>inverse-t-layout</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="inverse-t-layout">
+                    <path class="cls-1" d="M424 0c40 0 72 32 72 72v336c0 40-32 72-72 72H88c-40 0-72-32-72-72V72C16 32 48 0 88 0h336zM64 216h168V48H88c-13 0-24 11-24 24v144zM424 48H280v168h168V72c0-13-11-24-24-24zm0 384c13 0 24-11 24-24V264H64v144c0 13 11 24 24 24h336z"></path>
+                    </g></g>
+                    </svg>

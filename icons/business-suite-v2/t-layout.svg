@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>t-layout</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="t-layout">
+                    <path class="cls-1" d="M423.5 1c40 0 72 32 72 72v335c0 40-32 72-72 72h-335c-40 0-72-32-72-72V73c0-40 32-72 72-72h335zm-359 72v143h383V73c0-13-11-24-24-24h-335c-13 0-24 11-24 24zm0 191v144c0 13 11 24 24 24h144V264h-168zm359 168c13 0 24-11 24-24V264h-167v168h143z"></path>
+                    </g></g>
+                    </svg>

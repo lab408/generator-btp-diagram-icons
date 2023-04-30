@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>2x2-grid-layout</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="2x2-grid-layout">
+                    <path class="cls-1" d="M89 1h335c40 0 72 32 72 72v335c0 40-32 72-72 72H89c-40 0-72-32-72-72V73C17 33 49 1 89 1zm0 48c-13 0-24 11-24 24v143h168V49H89zm359 24c0-13-11-24-24-24H281v167h167V73zm-24 359c13 0 24-11 24-24V264H281v168h143zM65 408c0 13 11 24 24 24h144V264H65v144z"></path>
+                    </g></g>
+                    </svg>
